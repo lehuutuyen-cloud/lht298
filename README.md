@@ -18,6 +18,24 @@ Mục đích: lưu tất cả nội dung trang lehuutuyen.com để AI/automatio
 - Commit message mẫu: `content: update home.txt — chỉnh sửa CTA`
 - Để thêm page mới: tạo file trong `/pages`, thêm mục vào `index.json`.
 
+## Sitemap
+lehuutuyen.com-content/
+- ├─ README.md
+- ├─ index.json            # (tổng mục lục, lightweight)
+- ├─ pages/
+- │  ├─ home.txt
+- │  ├─ about.txt
+- │  ├─ my-story.txt
+- │  ├─ blog/
+- │  │  ├─ index.txt       # danh mục blog
+- │  │  ├─ 2025-01-01-post-title.txt
+- │  ├─ landing-product-a.txt
+- │  └─ faq.txt
+- ├─ assets/               # ảnh, logo nếu cần
+- ├─ meta/                 # optional: taxonomy, redirects
+- │  └─ tags.json
+- └─ CHANGELOG.md
+
 ## Liên hệ
 - Owner: Lê Hữu Tuyến
 - Website: http://lehuutuyen.com
