@@ -74,7 +74,7 @@ Hãy xem. Đây là bằng chứng.
 
 Đây là dự án Moriitalia của tôi. Tại thời điểm tôi chụp lại, tôi đã bỏ ra 1.000 đồng cho quảng cáo và thu về 8.972 đồng doanh thu.
 
-Hãy hiểu rõ điều này:
+## Hãy hiểu rõ điều này:
 
 Warren Buffett được cả thế giới coi là thiên tài đầu tư khi ông tạo ra mức ROI (tỷ suất lợi nhuận) trung bình 20%... một năm.
 
@@ -86,11 +86,27 @@ Nó không phải là một "chi phí". Nó là một cỗ máy.
 
 Và đây là sự thật phũ phàng thứ hai: Nếu bạn không thể trả tiền để có được khách hàng, bạn không có một doanh nghiệp.
 
-Tôi thấy rất nhiều người ngoài kia tự hào: "Doanh nghiệp của tôi phát triển mà không cần quảng cáo." Họ đeo nó như một "huy hiệu danh dự".
+Tôi thấy rất nhiều người ngoài kia tự hào: "Doanh nghiệp của tôi phát triển mà không cần quảng cáo." 
+
+Họ đeo nó như một "huy hiệu danh dự".
 
 Nhưng tôi tiết lộ cho bạn, đó là một dấu hiệu rõ ràng cho thấy... bạn đang chơi quá nhỏ.
 
-Bạn đang dựa vào may mắn, vào "truyền miệng", những thứ bạn không thể kiểm soát hay nhân rộng.
+Lý do bạn (và rất nhiều người khác) "chơi quá nhỏ" là vì chúng ta thường bị ám ảnh bởi "marketing 0 đồng".
+
+Họ khoe về việc xây kênh, quay video triệu view.
+
+Và đây chính là điểm mấu chốt: "Marketing 0 đồng" là một chiến lược nội dung tuyệt vời, nhưng nó là chiến lược dài hạn. Nó cần "rất nhiều thời gian" và không giúp bạn kiếm tiền ngay.
+
+Khi bạn chỉ tập trung vào nó, bạn đang dựa vào may mắn, vào "thuật toán", vào "truyền miệng"—những thứ bạn không thể kiểm soát hay nhân rộng.
+
+Để phát triển bền vững và thực thụ, bạn phải làm song song cả hai:
+1. Tiếp thị nội dung (marketing 0 đồng) để xây dựng tài sản dài hạn.
+2. Chạy quảng cáo (marketing trả phí) để "mua khách hàng" và kiếm tiền ngay.
+
+Cả hai đều quan trọng. "Tiếp thị nội dung" giống như bạn đang "trồng một cái cây lâu năm" – nó cần thời gian để lớn và cho ra trái ngọt.
+
+Nhưng "Chạy quảng cáo" chính là "cỗ máy bán hàng tự động" mà bạn có thể bật-tắt theo ý muốn để kiếm tiền ngay hôm nay.
 
 Một doanh nghiệp thực thụ phải có một hệ thống, một "cỗ máy bán hàng tự động", nơi bạn có thể bỏ 1 đồng vào và biết chắc mình sẽ lấy ra 2 đồng, 5 đồng, hay 8 đồng.
 
@@ -111,6 +127,8 @@ Nghe có vẻ logic, nhưng cách tiếp cận này là "rất sai lầm".
 Tại sao?
 
 Bởi vì sự thật nằm ở ngay đây, và khi bạn nhìn vào bức ảnh này, tâm trí của bạn sẽ được "khai sáng".
+
+## Công thức Thị trường Lớn
 
 Đây là "Công thức Thị trường Lớn" (The Larger Market Formula) mà các nhà quảng cáo triệu đô không bao giờ muốn bạn biết.
 
