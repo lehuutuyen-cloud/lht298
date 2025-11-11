@@ -19,5 +19,5 @@ Mục đích: lưu tất cả nội dung trang lehuutuyen.com để AI/automatio
 - Để thêm page mới: tạo file trong `/pages`, thêm mục vào `index.json`.
 
 ## Liên hệ
-Owner: Lê Hữu Tuyến
-Website: http://lehuutuyen.com
+- Owner: Lê Hữu Tuyến
+- Website: http://lehuutuyen.com
