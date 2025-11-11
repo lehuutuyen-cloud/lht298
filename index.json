@@ -1,4 +1,5 @@
 [
   {"title":"Bí Mật \"Website Cuối Cùng\"","url":"https://lehuutuyen.com/","path":"pages/home.txt","type":"homepage","tags":["homepage","website"]},
   {"title":"Về tôi","url":"https://lehuutuyen.com/about","path":"pages/about.txt","type":"page","tags":["about"]}
+  {"title":"Câu Chuyện","url":"https://lehuutuyen.com/my-story","path":"pages/my-story.txt","type":"page","tags":["my-story"]}
 ]
