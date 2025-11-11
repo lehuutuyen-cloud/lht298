@@ -1,0 +1,15 @@
+lehuutuyen.com-content/
+├─ README.md
+├─ index.json            # (tổng mục lục, lightweight)
+├─ pages/
+│  ├─ home.txt
+│  ├─ about.txt
+│  ├─ blog/
+│  │  ├─ index.txt       # danh mục blog
+│  │  ├─ 2025-01-01-post-title.txt
+│  ├─ landing-product-a.txt
+│  └─ faq.txt
+├─ assets/               # ảnh, logo nếu cần
+├─ meta/                 # optional: taxonomy, redirects
+│  └─ tags.json
+└─ CHANGELOG.md
