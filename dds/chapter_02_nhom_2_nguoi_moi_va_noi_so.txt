@@ -1,0 +1,44 @@
+TITLE: "Chiết xuất Khảo sát Website - Nhóm 2: Người Mới & Nỗi Sợ"
+BOOK: "DDS_20250911_Chủ Đề: Website"
+AUTHOR: "Lê Hữu Tuyền (DDS)"
+URL: "N/A"
+TYPE: #knowledge_extraction
+LAST_UPDATED: 15/11/2025
+TAGS: #website, #khảo_sát, #người_mới, #nỗi_sợ_bị_lừa, #ZMOT, #DIY
+
+---
+
+### 🧠 Core Mindsets (Tư duy Cốt lõi)
+* "Người mới" luôn ở trong tâm thế phòng thủ, nghi ngờ ("Có thật không ạ?") và sợ hãi ("sợ bị lừa").
+* Người mới tin rằng mình là "gà" (dễ bị lùa), và thị trường làm web là một cái bẫy.
+* Họ có khao khát được "tự làm" (DIY) và "tự quản trị", nhưng lại bị choáng ngợp bởi đường cong học tập (learning curve) và nỗi sợ kỹ thuật.
+* Tư duy "giá rẻ" (1.5tr) tồn tại song song với nỗi sợ "của ôi", gây ra sự mâu thuẫn nội tâm khi ra quyết định.
+
+### 💡 Counter-intuitive Views (Góc nhìn Mới / Phản trực giác)
+* Bạn không "tập làm web", bạn đang "tập chữa lỗi". Các nền tảng DIY (tự làm) hứa hẹn sự đơn giản, nhưng thực tế là chỉ một lỗi nhỏ cũng đủ khiến bạn bế tắc hoàn toàn (STT 003).
+* Nỗi sợ bị lừa còn "tốn kém" hơn cả chi phí làm web. Nó khiến bạn bị "tê liệt", không dám ra quyết định, và bỏ lỡ cơ hội kinh doanh.
+* Câu hỏi sai là: "Làm web 1.5tr có SEO được không?". Câu hỏi đúng là: "Bạn có đang giao *cả dự án kinh doanh* của mình cho một giải pháp 1.5tr và hy vọng nó thành công không?" (STT 057).
+* Lời hứa "Tặng 11tr5 quảng cáo" không phải là một món hời, nó là một "cờ đỏ" (red flag) khiến bạn phải đặt câu hỏi về sự uy tín (STT 033).
+
+### 🎣 Hooks & Angles (Mồi câu & Góc độ)
+* **Góc độ "Người Mới":** "Em người mới ạ, sợ bị lừa." (STT 008)
+* **Góc độ "Bế tắc khi Tự làm":** "Em đang tập làm web... thì bị như thế này giờ chữa như thế nào ạ?" (STT 003)
+* **Góc độ "Tìm kiếm Lối tắt":** "bắt đầu từ đâu ạ?" (STT 030), "có cái nào dễ hơn và phí rẻ 1 chút không?" (STT 031)
+* **Góc độ "Hỗn loạn Giá":** "Tại sao web WP có giá 1.5tr, 2.5tr...?" (STT 057)
+* **Góc độ "Muốn Làm chủ":** "tự quản trị có dễ ko ạ?" (STT 029), "muốn tối ưu web chuẩn seo phải làm như nào?" (STT 025)
+
+### 🛠️ Frameworks & Strategies (Mô hình & Chiến lược)
+* **Chiến lược "Thị trường Mập mờ" (Opaque Market):** Đây là chiến lược của thị trường. Bằng cách tạo ra một ma trận giá (từ 1.5tr đến 30tr), thị trường khiến "người mới" mất hoàn toàn khả năng định giá. Khi không có "mỏ neo", họ sẽ: 1) Chọn giá rẻ nhất và "dính bẫy" (dẫn đến kịch bản Nhóm 1), hoặc 2) Bị tê liệt, không làm gì cả.
+* **Chiến lược "Mồi nhử Giá rẻ" (Low-Price Bait):** Dùng web 1.5tr để "câu" khách hàng vào, sau đó hoặc là bàn giao một sản phẩm không thể SEO/vận hành, hoặc là bắt đầu "vẽ" (upsell) thêm hàng loạt chi phí cho hosting, bảo trì, tính năng...
+* **Chiến lược "Lời hứa DIY Hão huyền":** Các nền tảng (Haravan) quảng cáo là "dễ", nhưng thực tế đường cong học tập (learning curve) vẫn cao, khiến người mới nản lòng và bỏ cuộc (STT 031, 003).
+
+### 💬 Golden Quotes (Trích dẫn Vàng)
+* "em người mới ạ" (STT 008, 016)
+* "sợ bị lừa" (STT 008)
+* "em đang tập làm web... giờ chữa như thế nào ạ?" (STT 003)
+* "bắt đầu từ đâu ạ?" (STT 030)
+* "tự quản trị có dễ ko ạ?" (STT 029)
+* "có cái nào dễ hơn và phí rẻ 1 chút không?" (STT 031)
+* "Nếu làm 1.5tr thì có SEO được không?" (STT 057)
+* "Có thật không ạ? có uy tín không" (STT 033)
+* "k thấy hiểu quả gì cả" (STT 061)
