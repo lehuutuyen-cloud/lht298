@@ -4,6 +4,7 @@ Mục đích: lưu tất cả nội dung trang lehuutuyen.com để AI/automatio
 
 ## Cấu trúc
 - `/pages` : mỗi trang 1 file .txt (header metadata + nội dung nguyên văn)
+- `/dds`: là các tài liệu về việc nghiên cứu thị trường, khách hàng, vấn đề, nỗi đau... tài nguyên để AI có thể thấu hiểu khách hàng
 - `/index.json` : sitemap tóm tắt (title, url, path, type, tags)
 - `/meta` : tags, redirects, taxonomy
 
@@ -22,6 +23,7 @@ Mục đích: lưu tất cả nội dung trang lehuutuyen.com để AI/automatio
 lehuutuyen.com-content/
 - ├─ README.md
 - ├─ index.json            # (tổng mục lục, lightweight)
+- ├─ dds/                  # (nội dung nghiên cứu, khảo sát, tài nguyên để AI có thể thấu hiểu khách hàng) 
 - ├─ pages/
 - │  ├─ home.txt
 - │  ├─ about.txt
