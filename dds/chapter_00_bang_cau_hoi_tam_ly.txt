@@ -1,0 +1,56 @@
+TITLE: Tài liệu Chuẩn đoán Thị trường - eClick Website - Chương 3 - Bảng Câu Hỏi Tâm Lý Chuyên Sâu
+BOOK: Tài liệu Chuẩn đoán Thị trường - eClick Website
+AUTHOR: [Tên Tác giả]
+URL: [Link sách/Nguồn]
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-16
+TAGS: [Tên Tác giả], [eClick Website], [Xử lý từ chối], [Tâm lý khách hàng], [ZMOT], [Niềm tin giới hạn], booknote, [Tài liệu Chuẩn đoán Thị trường - eClick Website]
+---
+
+## 🧠 Core Mindsets
+* Khách hàng mục tiêu (người đã có trải nghiệm xấu) có 4 nỗi sợ tâm lý chính:
+    1.  **Sợ về Sản phẩm:** Sợ bị lừa dối lần nữa, tự ti về công nghệ, hoài nghi giải pháp "dễ dàng".
+    2.  **Sợ về Người bán:** Mất niềm tin vào nhà cung cấp, cần xác thực chuyên môn và tầm nhìn dài hạn.
+    3.  **Sợ về Bằng chứng:** Không tin quảng cáo, chỉ tin kết quả thực tế từ "người giống mình".
+    4.  **Sợ về Hành động:** Cần sự minh bạch tuyệt đối và cam kết không rủi ro (lối thoát an toàn).
+* Nỗi sợ lớn nhất của khách hàng không phải là giá, mà là nỗi sợ "mình không đủ thông minh để dùng công cụ, và cuối cùng lại thất bại, lại lãng phí."
+* Họ không cần một "món đồ chơi", họ cần một "công cụ kinh doanh" thực sự hiệu quả (ra đơn, chuẩn SEO).
+* Khách hàng ám ảnh việc bị "làm khó" hoặc "khóa chân". Họ muốn "sở hữu tài sản", không phải "đi thuê". Nỗi sợ bị phụ thuộc mãi mãi là rất lớn.
+* Rủi ro lớn nhất khi dùng nền tảng mới không phải là lỗi, mà là "sự tồn tại của chính công ty đó."
+* "Hỗ trợ sau bán hàng mới là điều cốt lõi." Từ "hỗ trợ" chung chung là vô nghĩa, khách hàng cần định nghĩa rõ ràng (kênh nào, thời gian phản hồi bao lâu).
+* Một chính sách hoàn tiền rõ ràng, dễ dàng là "bằng chứng tốt nhất" cho thấy bạn tự tin vào sản phẩm.
+
+## 💡 Counter-intuitive Views
+* Khách hàng hoài nghi không chỉ sợ mất tiền. Nỗi sợ lớn hơn là:
+    1.  Sợ *lãng phí thời gian và công sức*.
+    2.  Sợ *cảm thấy ngu ngốc* hoặc thất bại một lần nữa.
+    3.  Sợ *bị phụ thuộc* và mất kiểm soát vĩnh viễn.
+
+## 🎣 Hooks & Angles
+* "Bạn quảng cáo 'dễ như Canva', nhưng đó có phải chỉ là lời hoa mỹ không?"
+* "Nếu tôi, một người thực sự 'mù công nghệ', không thể tự mình làm được... thì sao?"
+* "Có 'lối thoát an toàn' nào cho tôi không, hay tôi lại mất trắng tiền một lần nữa?"
+* "Ngoài việc 'dễ làm', website... có thực sự giúp tôi bán được hàng không? Hay nó chỉ đẹp thôi còn không hiệu quả?"
+* "Các bạn là ai? Các bạn có phải là những người làm kỹ thuật thực sự, hay chỉ là một nhóm kinh doanh...?"
+* "Tại sao tôi nên tin các bạn, thay vì tin một công ty thiết kế web có thâm niên 5-10 năm?"
+* "Điều gì đảm bảo rằng công ty của bạn sẽ không 'biến mất' sau 1-2 năm?"
+* "Cho tôi xem những website thực tế của những người giống tôi... Đừng cho tôi xem những trang web do đội ngũ của các bạn làm demo."
+* "'Hỗ trợ' của các bạn cụ thể là gì? Là trả lời email trong 24 giờ, hay là có người chat Zalo/gọi điện xử lý ngay lập tức?"
+* "Bảng giá các bạn đưa ra đã phải là chi phí cuối cùng chưa? Có chi phí ẩn nào không?"
+
+## 🛠️ Frameworks & Strategies
+* **Khung Xử lý Từ chối 4 Lớp (4-Layer Objection Handling Framework):** Một Lời chào hàng (Offer) hoặc Bài bán hàng (Sales Page) hoàn hảo phải chủ động trả lời và giải quyết 4 nhóm niềm tin giới hạn/nỗi sợ ngầm của khách hàng:
+    1.  **Về Sản phẩm:** (Nó có dễ thật không? Có bền không? Có hiệu quả không? Tôi có sở hữu nó không?)
+    2.  **Về Người bán:** (Họ là ai? Có chuyên môn không? Có tồn tại lâu dài không? Động cơ là gì?)
+    3.  **Về Bằng chứng Xã hội:** (Ai giống tôi đã làm được? Hỗ trợ có thật không? Review có thật không?)
+    4.  **Về Ưu đãi & Cam kết:** (Hỗ trợ cụ thể là gì? Chính sách hoàn tiền (lối thoát an toàn) ra sao? Chi phí có minh bạch không?)
+
+## 💬 Golden Quotes
+* > "Tôi sợ mình không đủ thông minh để dùng công cụ của các bạn, và cuối cùng lại thất bại, lại lãng phí."
+* > "Tôi ám ảnh việc bị 'làm khó', bị giữ source code. Tôi muốn sở hữu tài sản của mình, không phải đi thuê. Tôi sợ bị phụ thuộc vào các bạn mãi mãi."
+* > "Tôi không cần một món đồ chơi, tôi cần một công cụ kinh doanh."
+* > "Rủi ro lớn nhất khi dùng một nền tảng mới là sự tồn tại của chính công ty đó."
+* > "Hỗ trợ sau bán hàng mới là điều cốt lõi."
+* > "Một chính sách hoàn tiền rõ ràng, dễ dàng là bằng chứng tốt nhất cho thấy các bạn tự tin vào sản phẩm của mình."
+* > "Tôi không tin những gì các bạn nói, tôi chỉ tin những gì người giống tôi đã làm được."
+* > "Tôi cực kỳ nghi ngờ về tính xác thực của các review online. Tôi cần một nguồn thông tin đáng tin cậy."
