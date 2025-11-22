@@ -14,21 +14,23 @@ Có những khoảnh khắc tưởng chừng như nhỏ bé... nhưng lại đ�
 Tôi vẫn nhớ hôm đó — trong giờ giải lao của một khóa học.  
 Một người đàn ông tiến lại gần. Ánh mắt anh ấy sáng lên giữa đám đông.  
 
-**“Anh Tuyến phải không ạ?”**  
-**“Vâng, là tôi.”** Tôi trả lời.  
-**“Tôi chỉ muốn cảm ơn anh mà thôi,”** anh ấy nói.  
+_“Anh Tuyến phải không ạ?”_  
+_“Vâng, là tôi._” Tôi trả lời.  
+_“Tôi chỉ muốn cảm ơn anh mà thôi,”_ anh ấy nói.  
 
-“Trước khi biết đến anh, tôi khổ sở vì cái website. Tâm trí kiệt quệ, gần như không đủ sức bước ra khỏi nhà.  
-Tôi đã thử đủ cách. Thuê công ty làm web thì bị chém đẹp, mà website vẫn tệ hại.  
+_“Trước khi biết đến anh, tôi khổ sở vì cái website. Tâm trí kiệt quệ, gần như không đủ sức bước ra khỏi nhà.  
+Tôi đã thử đủ cách. Thuê công ty làm web thì **bị chém đẹp**, mà website vẫn tệ hại.  
 Mua phần mềm về tự làm thì không có tư duy, mò mẫm mãi chẳng biết dùng sao, lại bỏ xó.  
 Cảm giác lúc đó thật sự bất lực.  
-Thấy mình ngu công nghệ, luôn phải phụ thuộc vào người khác...”  
+Thấy mình **ngu công nghệ**, luôn phải phụ thuộc vào người khác...”_
 
 Rồi anh dừng lại một chút. Giọng nhỏ xuống:  
-“Nhưng từ khi học làm website theo tâm lý học, và sử dụng eClick. Mọi thứ đã khác.  
+_“Nhưng từ khi học làm website theo tâm lý học, và sử dụng eClick. Mọi thứ đã khác.  
 Nhờ cái website được thiết kế tốt, nên việc làm ăn của tôi phát triển như ý.  
 Gần đây tôi có bạn gái — cô ấy xinh lắm, và chúng tôi sắp kết hôn.  
-Thế nên... cảm ơn anh. Cảm ơn đã giúp tôi trở lại với cuộc sống...”  
+Thế nên... cảm ơn anh. Cảm ơn đã giúp tôi trở lại với cuộc sống...”_
+
+---
 
 Vậy đó. Tôi nghĩ về anh ấy hàng ngày.  
 
