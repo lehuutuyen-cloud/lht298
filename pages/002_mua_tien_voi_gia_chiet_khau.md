@@ -18,7 +18,7 @@ SECTION: LEAD
 
 Nếu bạn giống như tôi của nhiều năm về trước...
 
-Có lẽ bạn cũng đang có một mối quan hệ "yêu-ghét" với hai chữ "Quảng Cáo".
+Có lẽ bạn cũng đang có một mối quan hệ **"yêu-ghét"** với hai chữ "Quảng Cáo".
 
 Bạn đã nghe nói về những người kiếm hàng tỷ đồng nhờ nó. Bạn đã nhìn thấy những người xây dựng cả một đế chế từ con số 0.
 
