@@ -259,11 +259,12 @@ Chỉ có một website được dẫn dắt bằng tâm lý học — khiến k
 ## Một Lời Tuyên Bố Độc Quyền
 
 Tôi là Lê Hữu Tuyến – một người đã tìm thấy "lối tắt" nhờ thấu hiểu tâm lý học ứng dụng trên website, mà khi mới bắt đầu, tôi đã hoàn toàn:
-> Không có kiến thức về marketing online bài bản  
-> Không có kinh nghiệm xây dựng hệ thống bán hàng tự động  
-> Không có nhiều tiền để đốt vào những thử nghiệm vô vọng  
-> Không có nhiều thời gian vì còn phải vật lộn với những dự án khác  
-> Và đôi khi, không thực sự biết mình đang làm gì!
+
+- Không có kiến thức về marketing online bài bản  
+- Không có kinh nghiệm xây dựng hệ thống bán hàng tự động  
+- Không có nhiều tiền để đốt vào những thử nghiệm vô vọng  
+- Không có nhiều thời gian vì còn phải vật lộn với những dự án khác  
+- Và đôi khi, không thực sự biết mình đang làm gì!
 
 Nếu một kỹ sư cầu đường chuyên về logic như tôi, người từng thất bại ê chề vì không hiểu tâm lý khách hàng, có thể tìm ra con đường này và tạo ra những kết quả đột phá...
 
