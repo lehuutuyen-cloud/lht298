@@ -209,19 +209,25 @@ Sub cta: Khoá học miễn phí, chỉ hơn 30 phút
 ---
 SECTION: P/S
 
-## Tái bút (P.S.): Nếu bạn giống tôi và đã kéo thẳng xuống cuối trang này để xem "cái quái gì đang diễn ra", thì đây là tóm tắt nhanh trong 30 giây:
+### Tái bút (P.S.): 
+
+Nếu bạn giống tôi và đã kéo thẳng xuống cuối trang này để xem "cái quái gì đang diễn ra", thì đây là tóm tắt nhanh trong 30 giây:
 
 Lý do bạn "đốt tiền" quảng cáo là vì bạn (và 99% đối thủ) đang "đánh nhau" đẫm máu để giành giật 3% thị trường "Sẵn sàng Mua Ngay".
 
 Bí mật của ROI 797,2% không nằm ở việc "nhắm mục tiêu" tốt hơn, mà nằm ở việc bạn phải dùng quảng cáo để "dẫn dắt" 97% thị trường khổng lồ đang bị bỏ qua.
 
-## Tái tái bút (P.P.S.): Nhưng làm thế nào để "dẫn dắt" 97% đó một cách tự động?
+### Tái tái bút (P.P.S.): 
+
+Nhưng làm thế nào để "dẫn dắt" 97% đó một cách tự động?
 
 Đây là lúc bạn nhận ra quảng cáo (Facebook, Google...) chỉ là "vòi xăng". Nếu bạn đổ xăng mà không có "động cơ", bạn chỉ đang "đốt tiền".
 
 "Động cơ" đó chính là thứ tôi gọi là "Hệ Thống Website Cuối Cùng" — một cỗ máy tâm lý học được thiết kế để biến người lạ thành người tin tưởng bạn tuyệt đối.
 
-## Tái tái tái bút (P.P.P.S.): Bạn không cần phải đoán. Tôi muốn "tiết lộ" cho bạn toàn bộ bản thiết kế của "động cơ" này trong một khóa học miễn phí.
+### Tái tái tái bút (P.P.P.S.): 
+
+Bạn không cần phải đoán. Tôi muốn "tiết lộ" cho bạn toàn bộ bản thiết kế của "động cơ" này trong một khóa học miễn phí.
 
 Bạn không mất gì cả. Rủi ro duy nhất là tiếp tục trì hoãn và "đốt tiền" theo cách của 99% ngoài kia.
 
