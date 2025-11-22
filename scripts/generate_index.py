@@ -20,46 +20,46 @@ def generate_sitemap():
 
     # Quét từng thư mục con trong /pages/
     # sorted() giúp danh sách ổn định, không bị nhảy thứ tự mỗi lần chạy
-    for book_folder in sorted(os.listdir(PAGES_DIR)):
-        book_path = os.path.join(PAGES_DIR, book_folder)
+    for page_folder in sorted(os.listdir(PAGES_DIR)):
+        page_path = os.path.join(PAGES_DIR, page_folder)
         
         # Chỉ xử lý nếu là thư mục
-        if os.path.isdir(book_path):
-            book_data = {
-                "id": book_folder,
+        if os.path.isdir(page_path):
+            page_data = {
+                "id": page_folder,
                 "info": {},
                 "chapters": []
             }
 
             # 1. Đọc file metadata.json nếu có
-            meta_path = os.path.join(book_path, 'metadata.json')
+            meta_path = os.path.join(page_path, 'metadata.json')
             if os.path.exists(meta_path):
                 try:
                     with open(meta_path, 'r', encoding='utf-8') as f:
-                        book_data["info"] = json.load(f)
+                        page_data["info"] = json.load(f)
                 except Exception as e:
-                    print(f"Error reading metadata for {book_folder}: {e}")
+                    print(f"Error reading metadata for {page_folder}: {e}")
             else:
                 # Nếu không có metadata, tạo info mặc định từ tên thư mục
-                book_data["info"] = {
-                    "title": book_folder.replace('_', ' ').title(),
-                    "id": book_folder
+                page_data["info"] = {
+                    "title": page_folder.replace('_', ' ').title(),
+                    "id": page_folder
                 }
             
             # 2. Quét các file nội dung (.txt hoặc .md)
             # Loại bỏ metadata.json và các file ẩn
             valid_extensions = ('.txt', '.md')
             
-            for file in sorted(os.listdir(book_path)):
+            for file in sorted(os.listdir(page_path)):
                 if file.endswith(valid_extensions) and file != 'metadata.json':
-                    book_data["chapters"].append({
+                    page_data["chapters"].append({
                         "filename": file,
-                        "path": f"{PAGES_DIR}/{book_folder}/{file}"
+                        "path": f"{PAGES_DIR}/{page_folder}/{file}"
                     })
             
             # Chỉ thêm vào danh sách nếu thư mục có chứa chương hoặc metadata
-            if book_data["chapters"] or book_data["info"]:
-                library["pages"].append(book_data)
+            if page_data["chapters"] or page_data["info"]:
+                library["pages"].append(page_data)
 
     library["total_pages"] = len(library["pages"])
 
