@@ -3,7 +3,7 @@
 - **TYPE:** Page
 - **LAST_UPDATED:** 2025-11-13
 - **TAGS:** Lê Hữu Tuyến, Lời Chào Hàng, Offer
-- **GEMINI:** https://gemini.google.com/gem/90e12b961eac/e512ae484ed4b761
+- **[GEMINI:](https://gemini.google.com/gem/90e12b961eac/e512ae484ed4b761)** 
 ---
 
 SECTION: HEAD
