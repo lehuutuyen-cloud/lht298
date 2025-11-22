@@ -69,9 +69,10 @@ Chạy quảng cáo để tiếp cận nguồn traffic lạnh dồi dào (Facebo
 **CTA:** _Xem thêm_
 
 #### CTA tổng
-- [Xem "Hành Trình Web Nghìn Đơn"](https://lehuutuyen.com/my-story)
-- Sự Thật Có Thể Gây Sốc...  
-Link: https://lehuutuyen.com/my-story
+
+[Xem "Hành Trình Web Nghìn Đơn"](https://lehuutuyen.com/my-story)
+
+Sự Thật Có Thể Gây Sốc...  
 
 ---
 > SECTION: TẠI SAO WEBSITE CUỐI CÙNG
@@ -154,8 +155,7 @@ Hầu hết mọi người nghĩ “thuyết phục” là dùng lời lẽ khô
 Đây là sự thật: Khách hàng của bạn đã có sẵn "Khát khao" (Mass Desire). Lý do duy nhất họ không mua là "Rủi Ro" (Sự hoài nghi). Lời Chào Hàng Bố Già chỉ làm một việc: nó đảo ngược hoàn toàn rủi ro đó. Khi rủi ro được gỡ bỏ, "Khát khao" sẽ tự động chiến thắng.
 
 **CTA:**  
-Xem thêm "Lời Chào Hàng Bố Già"  
-Link: https://lehuutuyen.com/Godfather-Offer
+[Xem thêm "Lời Chào Hàng Bố Già"](https://lehuutuyen.com/Godfather-Offer)
 
 ---
 
