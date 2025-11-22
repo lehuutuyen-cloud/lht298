@@ -50,7 +50,7 @@ Bạn thấy đấy, khi tôi hỏi hầu hết các chủ doanh nghiệp câu n
 
 Sự thật là: Bạn và tôi không kinh doanh những thứ đó. Công việc kinh doanh thực sự của chúng ta chỉ có một:
 
-"Kinh doanh việc Mua Khách Hàng"
+**"Kinh doanh việc Mua Khách Hàng"**
 
 Đó là tất cả.
 
