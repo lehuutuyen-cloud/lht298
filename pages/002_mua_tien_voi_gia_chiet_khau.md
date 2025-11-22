@@ -203,7 +203,8 @@ Nó sẽ thay đổi cách bạn nhìn về website... mãi mãi.
 
 Cuối cùng, bạn cần xem sớm, trước khi tôi quyết định thu một khoản phí tương xứng.
 
-[Xem "Hệ Thống Website Cuối Cùng"!](https://lehuutuyen.com/vls)
+### 👉 [Xem "Hệ Thống Website Cuối Cùng"!](https://lehuutuyen.com/vls)
+
 Sub cta: Khoá học miễn phí, chỉ hơn 30 phút
 
 ---
@@ -233,4 +234,4 @@ Bạn không mất gì cả. Rủi ro duy nhất là tiếp tục trì hoãn và
 
 Đừng tin tôi... Hãy tự mình trải nghiệm
 
-[CTA: Xem Hệ Thống Website Cuối Cùng... -> https://lehuutuyen.com/vls]
+### 👉 [Xem "Hệ Thống Website Cuối Cùng"!](https://lehuutuyen.com/vls)
