@@ -14,7 +14,7 @@ SECTION: HEAD
 ---
 SECTION: LEAD
 
-> [HÌNH ẢNH: Warren Buffett và trích dẫn 'Khoản đầu tư 797,2% ROI... Khiến Warren Buffett cũng phải GHEN TỊ...](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/rN0VoxhgbdLZo3hEeX7j/media/691aaf69f710b579aa91a1c0.png)
+> [HÌNH ẢNH:](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/rN0VoxhgbdLZo3hEeX7j/media/691aaf69f710b579aa91a1c0.png)  Warren Buffett và trích dẫn 'Khoản đầu tư 797,2% ROI... Khiến Warren Buffett cũng phải GHEN TỊ...
 
 Nếu bạn giống như tôi của nhiều năm về trước...
 
