@@ -39,7 +39,7 @@ Những người làm kinh doanh thành công nhất thế giới...
 
 Họ nghe thấy một CHIẾN LƯỢC KINH DOANH vĩ đại.
 
-##H2: MỘT "LỐI TẮT" THAY ĐỔI CUỘC CHƠI
+## MỘT "LỐI TẮT" THAY ĐỔI CUỘC CHƠI
 
 Họ hiểu, quyền lực thực sự không nằm ở họng súng.
 
@@ -61,7 +61,7 @@ Bởi vì tôi nhận ra, toàn bộ kết quả mà tôi (và cả bạn) đang
 
 Biến số đầu tiên — và là biến số 99% mọi người làm sai— chính là...
 
-(Kết thúc LEAD - Chuyển tiếp sang BODY)
+> (Kết thúc LEAD - Chuyển tiếp sang BODY)
 
 ---
 
@@ -69,7 +69,7 @@ SECTION: BODY
 
 Biến số đầu tiên — và là biến số 99% mọi người làm sai— chính là...
 
-##H2 - Biến Số #1: Thị Trường
+## Biến Số #1: Thị Trường
 
 Tại sao chúng ta thất bại?
 
@@ -84,8 +84,8 @@ Chúng ta nghĩ: "Sản phẩm của mình thật tuyệt vời, mình tâm huy�
 Nhưng đây là sự thật đầu tiên tôi muốn "tiết lộ" cho bạn:
 
 Lợi thế cạnh tranh lớn nhất bạn có thể có...
-KHÔNG phải là sản phẩm tốt nhất.
-KHÔNG phải là giá rẻ nhất.
+- KHÔNG phải là sản phẩm tốt nhất.
+- KHÔNG phải là giá rẻ nhất.
 
 ...mà là một "ĐÁM ĐÔNG ĐÓI KHÁT".
 
@@ -108,9 +108,9 @@ Có nhóm người nào đang cùng phàn nàn về một nỗi đau... mà họ
 Anh ta tìm ra một thị trường ngách (như vậy) — nơi có cả đống người đang 'tìm kiếm' giải pháp... nhưng không ai bán.
 
 > HÌNH ẢNH: 2 người bạn khoách vai nhau với câu trích dẫn:
-> 'Hai người bạn cùng khởi nghiệp...
-> 'Cả hai đều HOÀI BÃO. Đều CHĂM CHỈ'
-> Nhưng... chỉ có một người thành công
+>- 'Hai người bạn cùng khởi nghiệp...
+>- 'Cả hai đều HOÀI BÃO. Đều CHĂM CHỈ'
+>- Nhưng... chỉ có một người thành công
 
 Anh ta chỉ cần đưa cho họ bất cứ thứ gì (kể cả một sản phẩm "tàm tạm")...
 
@@ -128,7 +128,7 @@ Vậy chúng ta phải làm gì? Làm sao để "thắng" khi chúng ta không c
 
 ...Đây chính là lúc chúng ta cần đến BIẾN SỐ #2.
 
-##H2 - Biến Số #2: Lời Chào Hàng (Offer)
+## Biến Số #2: Lời Chào Hàng (Offer)
 
 Đây chính là "con đường khôn ngoan" của Bố Già.
 
@@ -173,7 +173,7 @@ Khách hàng không còn so sánh [Sản phẩm A] của bạn với [Sản ph�
 
 Quyết định của họ bây giờ là: "Giữa Offer 23đ không thể tin nổi này... và không gì cả."
 
-### H2: Case Study
+### Case Study
 
 Nghe 'lý thuyết' đúng không? Tôi cũng từng nghĩ vậy. Nhưng hãy xem điều gì xảy ra khi người thật, giống như bạn, áp dụng chiến lược này...
 
@@ -190,7 +190,7 @@ Kết quả? Hiếu chốt 4 đơn hàng giá cao, tổng giá trị hơn 200 tr
 Hay anh Trần Văn Quy, chủ doanh nghiệp đầu tư trong thị trường "siêu cạnh tranh". Anh ấy áp dụng ngay lập tức... và chốt một gói đầu tư 50.000 USD (hơn 1.2 tỷ đồng).
 
 > HÌNH ẢNH: tin nhắn zalo của Trần Văn Quy (trích dẫn dưới đây)  
-> "Mấy nay lubu nên ko chia sẻ đến nhóm điều tuyệt vời sau khi kết thúc khoá học offer của thầy Tuyến, sau khoá học mình áp dụng cơ chế bán hàng giá cao vào và chốt dc gói đầu tư 50.000$, rất tuyệt vời, thanks thầy Tuyến nhiều nhé!"
+>- Trích dẫn: "Mấy nay lubu nên ko chia sẻ đến nhóm điều tuyệt vời sau khi kết thúc khoá học offer của thầy Tuyến, sau khoá học mình áp dụng cơ chế bán hàng giá cao vào và chốt dc gói đầu tư 50.000$, rất tuyệt vời, thanks thầy Tuyến nhiều nhé!"
 
 Bạn thấy điều gì vừa xảy ra không?
 
@@ -202,9 +202,9 @@ Kết quả? Họ không cần "bán". Khách hàng "tự mua" ở mức giá ca
 
 Đó là sức mạnh của Biến số #2. Và khi bạn làm đúng, nó sẽ "vô hiệu hóa" biến số cuối cùng...
 
-(Kết thúc Biến số #2)
+> (Kết thúc Biến số #2)
 
-##H2 - Biến Số #3: Thuyết Phục
+## Biến Số #3: Thuyết Phục
 
 Và đây là biến số cuối cùng — biến số bị "đánh giá cao" (và 'hiểu sai') nhiều nhất.
 
@@ -234,13 +234,13 @@ Lời chào hàng của bạn tự nó đã làm 90% công việc thuyết phụ
 
 Đó chính là "HỆ THỐNG" – một cỗ máy làm việc 24/7 để trình bày Lời chào hàng cho Thị trường của bạn, một cách tự động.
 
-Đó là "cỗ máy thuyết phục 1-NHIỀU".
+Đó là "cỗ máy thuyết phục **1-NHIỀU**".
 
 ---
 
-SECTION: CTA
+> SECTION: CTA
 
-##H2 - Điều Gì Xảy Ra Tiếp Theo...
+## Điều Gì Xảy Ra Tiếp Theo...
 
 Bạn thấy đấy.
 
@@ -285,7 +285,7 @@ Cuối cùng, bạn cần xem sớm, trước khi tôi quyết định thu một
 > CTA: [Khám Phá Bí Mật Ngay... -> https://lehuutuyen.com/vls  
 Trước khi tôi thu bất kỳ khoản phí nào...]
 
-##H2 - Lời Nói Cuối Cùng...
+## Lời Nói Cuối Cùng...
 
 Tái bút (P.S.): Nếu bạn giống hầu hết mọi người, bạn có thể đã kéo thẳng xuống cuối trang này để xem "bí mật" này dẫn đến đâu. Đây là tóm tắt nhanh:
 
@@ -298,7 +298,9 @@ Nhưng 3 biến số này là vô dụng nếu thiếu một "cỗ máy" để t
 
 Toàn bộ "cỗ máy" đó chính là "Bí Mật Website Cuối Cùng" mà tôi muốn "tiết lộ" cho bạn... trong một khóa học miễn phí.
 
-Tái tái bút (P.P.S.): Bạn không mất gì cả.
+### Tái tái bút (P.P.S.): 
+
+Bạn không mất gì cả.
 
 Rủi ro duy nhất là tiếp tục trì hoãn và cố gắng "bán hàng" theo cách của 99% những người đang thất bại ngoài kia.
 
