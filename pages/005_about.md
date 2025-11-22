@@ -11,7 +11,8 @@
 
 Có những khoảnh khắc tưởng chừng như nhỏ bé... nhưng lại đủ khiến ta thay đổi cách nhìn về công việc mình đang làm.  
 
-Tôi vẫn nhớ hôm đó — trong giờ giải lao của một khóa học.  
+Tôi vẫn nhớ hôm đó — trong giờ giải lao của một khóa học.
+
 Một người đàn ông tiến lại gần. Ánh mắt anh ấy sáng lên giữa đám đông.  
 
 _“Anh Tuyến phải không ạ?”_  
