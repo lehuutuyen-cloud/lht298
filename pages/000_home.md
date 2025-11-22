@@ -289,49 +289,41 @@ Bạn sẽ không thấy kết quả trong 24 giờ. Nhưng bạn sẽ thiết l
 Chúng tôi đưa bạn một hệ thống tâm lý đã được chứng minh (Tư duy + Hướng dẫn + Công cụ). Công việc của bạn không phải là "xây", mà là "lắp ráp" các khối tâm lý đã được đóng gói sẵn.
 
 ---
+> SECTION: FOOTER
 
-# SECTION: FOOTER
-## MÔ TẢ NGẮN
-'Hệ Thống Website Cuối Cùng' là phương pháp xây dựng website theo tâm lý mua hàng. Để Tự Động Hoá Bán Hàng NGAY lập tức. Nó được thiết kế dành riêng cho người tự kinh doanh bận rộn và không rành công nghệ đang muốn bùng nổ doanh số!
+### Mô tả ngắn  
+**"Hệ Thống Website Cuối Cùng"** là phương pháp xây dựng website theo tâm lý mua hàng để tự động hoá bán hàng ngay lập tức.  
+Nó được thiết kế dành riêng cho người tự kinh doanh bận rộn và không rành công nghệ đang muốn bùng nổ doanh số.
 
----
+### Social  
+- Facebook: https://facebook.com/lhuutuyen  
+- Youtube: https://youtube.com/@lehuutuyen?sub_confirmation=1  
+- Tiktok: https://tiktok.com/@vntuyenhuu  
+- Instagram: https://instagram.com/vntuyenhuu  
 
-## SOCIAL
-- Facebook: https://facebook.com/lhuutuyen
-- Youtube: https://youtube.com/@lehuutuyen?sub_confirmation=1
-- Tiktok: https://tiktok.com/@vntuyenhuu
-- Instagram: https://instagram.com/vntuyenhu
----
+### Cột 1: Tài Nguyên  
+- Về tôi: https://lehuutuyen.com/about  
+- Câu Chuyện: https://lehuutuyen.com/my-story  
+- Blog: https://lehuutuyen.com/blog  
+- FAQs: https://lehuutuyen.com/#section-TP50r9TW4H  
+- Liên hệ: https://lehuutuyen.com/lien-he  
 
-## CỘT 1: TÀI NGUYÊN
-- Về tôi: https://lehuutuyen.com/about
-- Câu Chuyện: https://lehuutuyen.com/my-story
-- Blog: https://lehuutuyen.com/blog
-- FAQs: https://lehuutuyen.com/#section-TP50r9TW4H
-- Liên hệ: https://lehuutuyen.com/lien-he
+### Cột 2: Sản Phẩm  
+- Khóa học: https://lehuutuyen.com/khoa-hoc  
+- eClick CRM: http://eclickcrm.com/?utm_source=lehuutuyen.com&utm_medium=cpc&utm_campaign=cta_click  
 
----
+### Cột 3: Công Cụ  
+- Đếm Ký Tự Online: https://lehuutuyen.com/tool/dem-ky-tu-online  
+- Công Thức Copywriting: https://lehuutuyen.com/cong-thuc-copywriting  
 
-## CỘT 2: SẢN PHẨM
-- Khóa học: https://lehuutuyen.com/khoa-hoc
-- eClick CRM: http://eclickcrm.com/?utm_source=lehuutuyen.com&utm_medium=cpc&utm_campaign=cta_click
-
----
-
-## CỘT 3: CÔNG CỤ
-- Đếm Ký Tự Online: https://lehuutuyen.com/tool/dem-ky-tu-online
-- Công Thức Copywriting: https://lehuutuyen.com/cong-thuc-copywriting
-
----
-
-## CỘT 4: CHÍNH SÁCH
-- Chính sách bảo mật: https://lehuutuyen.com/policy/chinh-sach-bao-mat
-- Điều khoản dịch vụ: https://lehuutuyen.com/policy/dieu-khoan-su-dung
-- Chính sách thanh toán: https://lehuutuyen.com/policy/chinh-sach-thanh-toan
-- Chính sách cookie: https://lehuutuyen.com/policy/chinh-sach-cookie
-- Miễn trừ trách nhiệm: https://lehuutuyen.com/policy/mien-tru-trach-nhiem
+### Cột 4: Chính Sách  
+- Chính sách bảo mật: https://lehuutuyen.com/policy/chinh-sach-bao-mat  
+- Điều khoản dịch vụ: https://lehuutuyen.com/policy/dieu-khoan-su-dung  
+- Chính sách thanh toán: https://lehuutuyen.com/policy/chinh-sach-thanh-toan  
+- Chính sách cookie: https://lehuutuyen.com/policy/chinh-sach-cookie  
+- Miễn trừ trách nhiệm: https://lehuutuyen.com/policy/mien-tru-trach-nhiem  
 
 ---
 
-## BẢN QUYỀN
+### Bản quyền  
 © Copyright 2025. Lê Hữu Tuyến. All Rights Reserved.
