@@ -291,7 +291,10 @@ Chúng tôi đưa bạn một hệ thống tâm lý đã được chứng minh (
 ---
 > SECTION: FOOTER
 
-### Mô tả ngắn  
+### Logo: Lê Hữu Tuyến
+
+> Mô tả ngắn  
+
 **"Hệ Thống Website Cuối Cùng"** là phương pháp xây dựng website theo tâm lý mua hàng để tự động hoá bán hàng ngay lập tức.  
 Nó được thiết kế dành riêng cho người tự kinh doanh bận rộn và không rành công nghệ đang muốn bùng nổ doanh số.
 
