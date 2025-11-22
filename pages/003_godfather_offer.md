@@ -292,7 +292,9 @@ Trước khi tôi thu bất kỳ khoản phí nào...
 
 ## Lời Nói Cuối Cùng...
 
-Tái bút (P.S.): Nếu bạn giống hầu hết mọi người, bạn có thể đã kéo thẳng xuống cuối trang này để xem "bí mật" này dẫn đến đâu. Đây là tóm tắt nhanh:
+### Tái bút (P.S.): 
+
+Nếu bạn giống hầu hết mọi người, bạn có thể đã kéo thẳng xuống cuối trang này để xem "bí mật" này dẫn đến đâu. Đây là tóm tắt nhanh:
 
 Lý do bạn thất bại không phải vì sản phẩm, mà vì bạn đang tập trung sai chỗ. Thành công của mọi "cỗ máy bán hàng" xoay quanh 3 biến số (Tư duy):
 1. Thị trường (Tìm đám đông đói khát)
