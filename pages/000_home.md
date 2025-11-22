@@ -12,7 +12,7 @@
 - Blog -> /blog
 - FAQs -> /#section-TP50r9TW4H
 
-**CTA:** Hành Trình Web Nghìn Đơn -> /my-story
+**CTA:** [Hành Trình Web Nghìn Đơn](lehuutuyen.com/my-story)
 
 ---
 > HERO SECTION
