@@ -286,8 +286,9 @@ Bạn sẽ được thấy cách HỆ THỐNG WEBSITE vận hành để áp dụ
 
 Cuối cùng, bạn cần xem sớm, trước khi tôi quyết định thu một khoản phí tương xứng.
 
-> CTA: [Khám Phá Bí Mật Ngay... -> https://lehuutuyen.com/vls  
-Trước khi tôi thu bất kỳ khoản phí nào...]
+### [Khám Phá Bí Mật Ngay...](https://lehuutuyen.com/vls)
+
+Trước khi tôi thu bất kỳ khoản phí nào...
 
 ## Lời Nói Cuối Cùng...
 
@@ -310,4 +311,6 @@ Rủi ro duy nhất là tiếp tục trì hoãn và cố gắng "bán hàng" the
 
 Đừng tin tôi, hãy tự mình trải nghiệm...
 
-Xem ngay khoá học ngắn (hơn 30 phút): [CTA: Bí Mật Website Cuối Cùng... -> https://lehuutuyen.com/vls]
+Xem ngay khoá học ngắn (hơn 30 phút)
+
+### [Bí Mật Website Cuối Cùng...](https://lehuutuyen.com/vls)
