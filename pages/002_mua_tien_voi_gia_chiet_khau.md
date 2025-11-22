@@ -205,7 +205,7 @@ Cuối cùng, bạn cần xem sớm, trước khi tôi quyết định thu một
 
 ### 👉 [Xem "Hệ Thống Website Cuối Cùng"!](https://lehuutuyen.com/vls)
 
-Sub cta: Khoá học miễn phí, chỉ hơn 30 phút
+Khoá học miễn phí, chỉ hơn 30 phút
 
 ---
 SECTION: P/S
